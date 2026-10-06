@@ -1,6 +1,6 @@
 # Hi, I'm Minaam Ahmad 👋
 
-**Software Engineer | Co-Founder @ Kognetto | MS in AI (UMT)**
+**Software Engineer @ Termnl Tech | Co-Founder @ Kognetto | MS in AI (UMT)**
 📍 Lahore, Pakistan
 
 I build scalable web and mobile applications and AI-powered products, from design through production and maintenance. I work across React Native, React/Next.js, Node.js and Python, and I'm especially interested in LLMs, RAG and applied machine learning.
